@@ -76,8 +76,3 @@ sudo reboot
 ```
 
 ---
-
-## 🔗 Créditos
-
-Autor: [Juniordss no Pastebin](https://pastebin.com/u/Juniordss)  
-Imagem: ![perfil](https://pastebin.com/cache/img/25/2/20/8453956.jpg)
