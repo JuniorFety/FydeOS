@@ -1,2 +1,0 @@
-# FydeOS
-Based on ChromeOS
